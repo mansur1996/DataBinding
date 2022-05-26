@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataBinding</string>
+    <string name="empty">No address</string>
+</resources>
